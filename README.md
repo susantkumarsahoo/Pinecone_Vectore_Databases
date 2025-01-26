@@ -1,2 +1,2 @@
-# CromaDB_Vectore_Databases
+# Pinecone_Vectore_Databases
 Embeddings, vector search.
